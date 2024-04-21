@@ -1,4 +1,4 @@
-package basic_test_day5;
+package basic.day5;
 
 import java.util.ArrayList;
 import java.util.List;

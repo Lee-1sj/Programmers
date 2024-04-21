@@ -1,4 +1,4 @@
-package basic_test.day3;
+package basic.day3;
 
 public class Solution1 {
 	public static String solution(String str1, String str2) {

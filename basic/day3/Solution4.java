@@ -1,8 +1,7 @@
-package basic_test.day3;
+package basic.day3;
 
 public class Solution4 {
 	public int solution(int a, int b) {
-		int answer = 0;
 		String result1 = "" + a + b;
 		String result2 = "" + b + a;
 		

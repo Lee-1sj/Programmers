@@ -1,4 +1,4 @@
-package basic_test.day3;
+package basic.day3;
 
 public class Solution2 {
 	public String solution(String[] arr) {

@@ -1,4 +1,4 @@
-package basic_test.day4;
+package basic.day4;
 
 public class Solution3 {
 	public int solution(int n) {
