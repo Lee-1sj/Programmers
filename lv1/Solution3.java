@@ -1,5 +1,5 @@
 package lv1;
-
+//약수의 합
 public class Solution3 {
     public int solution(int n) {
         int answer = 0;
